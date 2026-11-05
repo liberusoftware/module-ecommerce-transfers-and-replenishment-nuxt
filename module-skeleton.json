@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-transfers-and-replenishment-nuxt",
+  "capabilityKey": "planned:ecommerce:transfers-and-replenishment",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-transfers-and-replenishment-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/transfers-and-replenishment.md",
+  "presentationPlan": "projects/ecommerce/nuxt/transfers-and-replenishment.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
